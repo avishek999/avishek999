@@ -1,13 +1,16 @@
 [![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Avishek</h1>
 <h3 align="center">A passionate Full-Stack developer and competitive programming from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/9700a489505103.5dfa69044fa90.gif">
 
-- 🔭 I’m currently working on **Hotel Management System**
 
-- 🌱 I’m currently learning **Node.js**
-
-- 💬 Ask me about **Web Development And competitive programming**
+"An avid coder with big dreams and a keen eye,<br>
+Crafting elegant solutions that defy the sky.<br>
+Driven by boundless curiosity and ambition,<br>
+I tackle challenges with unwavering precision.<br>
+Determined to innovate and make a lasting mark,<br>
+I embrace each opportunity with a spark.<br>
+Join me on this journey of creativity and impact!"<br>
 
 - 📫 How to reach me **avishekprasad0999@gmail.com**
 
@@ -17,12 +20,13 @@
 <a href="https://instagram.com/apavishek.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="apavishek.exe" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
+
+
+## Languages and Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
