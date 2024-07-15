@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Avishek</h1>
 <h3 align="center">A passionate Full-Stack developer and competitive programming from India</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/9700a489505103.5dfa69044fa90.gif">
+<img align="right" alt="Coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/9700a489505103.5dfa69044fa90.gif">
 
 
 "An avid coder with big dreams and a keen eye,<br>
