@@ -40,6 +40,6 @@ Join me on this journey of creativity and impact!"<br>
 
 <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=avishek999&theme=dark&hide_border=false">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishek999&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="height:195px" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishek999&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="height:190px" >
 </div>
 
