@@ -14,7 +14,7 @@ Join me on this journey of creativity and impact!"<br>
 
 - 📫 How to reach me **avishekprasad0999@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/avishek-prasad-484066236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avishek-prasad-484066236" height="30" width="40" /></a>
 <a href="https://instagram.com/apavishek.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="apavishek.exe" height="30" width="40" /></a>
@@ -37,7 +37,7 @@ Join me on this journey of creativity and impact!"<br>
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-
+## Stats
 <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=avishek999&theme=dark&hide_border=false">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishek999&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="height:190px" >
