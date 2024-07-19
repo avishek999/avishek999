@@ -10,7 +10,7 @@ Driven by boundless curiosity and ambition,<br>
 I tackle challenges with unwavering precision.<br>
 Determined to innovate and make a lasting mark,<br>
 I embrace each opportunity with a spark.<br>
-Join me on this journey of creativity and impact!"<br>
+Join me on this journey of creativity and impact"<br>
 
 - 📫 How to reach me **avishekprasad0999@gmail.com**
 
