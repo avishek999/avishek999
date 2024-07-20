@@ -27,7 +27,6 @@
     <img src="https://img.icons8.com/3d-fluency/94/000000/gmail.png" alt="Email" width="50" height="50">
   </a>
 </p>
-<a href="https://iconscout.com/3d-illustrations/x" class="text-underline font-size-sm" target="_blank">X</a> by <a href="https://iconscout.com/contributors/mahendra" class="text-underline font-size-sm" target="_blank">Eklip Studio</a>
 
 
 ## 🛠 Languages and Tools
@@ -58,25 +57,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishek999&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="height:190px">
 </div>
 
-## 📚 Projects
-
-<p align="center">
-  Here are some of my notable projects:
-</p>
-
-- [Project 1](#) - Brief description of project 1.
-- [Project 2](#) - Brief description of project 2.
-- [Project 3](#) - Brief description of project 3.
-
-## 📫 Contact Me
-
-<p align="center">
-  Feel free to reach out to me:
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/avishek-prasad"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://twitter.com/avishek_prasad"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter"></a>
-  <a href="https://github.com/avishek999"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github"></a>
-  <a href="mailto:avishek999@gmail.com"><img src="https://img.shields.io/badge/Email-Send-red?style=flat-square&logo=gmail"></a>
-</p>
