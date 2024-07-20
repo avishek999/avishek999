@@ -1,45 +1,82 @@
-[![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Avishek</h1>
-<h3 align="center">A passionate Full-Stack developer and competitive programming from India</h3>
-<img align="right" alt="Coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/9700a489505103.5dfa69044fa90.gif">
+[![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)](https://www.apavishek.xyz)
+<h1 align="center">Hi 👋, I'm Avishek Prasad</h1>
 
+<h3 align="center">I'm a full-stack developer passionate about creating dynamic and user-friendly web applications.</h3>
 
-"An avid coder with big dreams and a keen eye,<br>
-Crafting elegant solutions that defy the sky.<br>
-Driven by boundless curiosity and ambition,<br>
-I tackle challenges with unwavering precision.<br>
-Determined to innovate and make a lasting mark,<br>
-I embrace each opportunity with a spark.<br>
-Join me on this journey of creativity and impact"<br>
-
-- 📫 How to reach me **avishekprasad0999@gmail.com**
-
-<h3 align="left"Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/avishek-prasad-484066236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avishek-prasad-484066236" height="30" width="40" /></a>
-<a href="https://instagram.com/apavishek.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="apavishek.exe" height="30" width="40" /></a>
+<p align="center">
+  With expertise in HTML, CSS, JavaScript, React, Node.js, and Laravel, I bring ideas to life.<br>
+  I have a strong foundation in data structures and algorithms (DSA), which enhances my problem-solving skills.<br>
+  I enjoy tackling complex challenges and continuously learning new technologies.<br>
+  I'm dedicated to contributing to open-source projects and collaborating on innovative solutions.
 </p>
 
+<p align="center">
+  <a href="https://www.apavishek.xyz">
+    <img src="https://img.icons8.com/3d-fluency/94/000000/domain.png" alt="Website" width="50" height="50">
+  </a>
+  <a href="https://www.linkedin.com/in/avishek-prasad">
+    <img src="https://img.icons8.com/3d-fluency/94/000000/linkedin.png" alt="LinkedIn" width="50" height="50">
+  </a>
+  <a href="https://twitter.com/avishek_prasad">
+    <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-x-10193145-8250224.png" alt="Twitter" width="50" height="50">
+  </a>
+  <a href="https://github.com/avishek999">
+    <img src="https://img.icons8.com/3d-fluency/94/000000/github.png" alt="GitHub" width="50" height="50">
+  </a>
+  <a href="mailto:avishek999@gmail.com">
+    <img src="https://img.icons8.com/3d-fluency/94/000000/gmail.png" alt="Email" width="50" height="50">
+  </a>
+</p>
+<a href="https://iconscout.com/3d-illustrations/x" class="text-underline font-size-sm" target="_blank">X</a> by <a href="https://iconscout.com/contributors/mahendra" class="text-underline font-size-sm" target="_blank">Eklip Studio</a>
 
 
+## 🛠 Languages and Tools
 
-## Languages and Tools
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<p align="center">
+  <img src="https://www.apavishek.xyz/img/skills/html.png" alt="HTML" width="70" height="70">
+  <img src="https://www.apavishek.xyz/img/skills/css.png" alt="CSS" width="70" height="70">
+  <img src="https://www.apavishek.xyz/img/skills/bootstrap-framework-logo.png" alt="Bootstrap" width="70" height="70">
+  <img src="https://www.apavishek.xyz/img/skills/tailwind.png" alt="Tailwind CSS" width="70" height="70">
+  <img src="https://www.apavishek.xyz/img/skills/php.png" alt="PHP" width="70" height="70">
+  <img src="https://www.apavishek.xyz/img/skills/javascript.png" alt="JavaScript" width="70" height="70">
+  <img src="https://www.apavishek.xyz/img/skills/typescript.png" alt="TypeScript" width="70" height="70">
+  <img src="https://www.apavishek.xyz/img/skills/laravel-framework-logo.png" alt="Laravel" width="70" height="70">
+  <img src="https://www.apavishek.xyz/img/skills/react.png" alt="React" width="70" height="70">
+  <img src="https://www.apavishek.xyz/img/skills/mysql.png" alt="MySQL" width="70" height="70">
+  <img src="https://www.apavishek.xyz/img/skills/mongo-db.png" alt="MongoDB" width="70" height="70">
+  <img src="https://www.apavishek.xyz/img/skills/sql.png" alt="SQL" width="70" height="70">
+  <img src="https://www.apavishek.xyz/img/skills/github.png" alt="GitHub" width="70" height="70">
+  <img src="https://www.apavishek.xyz/img/skills/nodejs.png" alt="Node.js" width="70" height="70">
+  <img src="https://www.apavishek.xyz/img/skills/git.png" alt="Git" width="70" height="70">
+  <img src="https://www.apavishek.xyz/img/skills/visual-studio-code.png" alt="VS Code" width="70" height="70">
+</p>
 
-## Stats
-<div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=avishek999&theme=dark&hide_border=false">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishek999&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="height:190px" >
+## 📈 Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avishek999&theme=dark&hide_border=false">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishek999&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="height:190px">
 </div>
 
+## 📚 Projects
+
+<p align="center">
+  Here are some of my notable projects:
+</p>
+
+- [Project 1](#) - Brief description of project 1.
+- [Project 2](#) - Brief description of project 2.
+- [Project 3](#) - Brief description of project 3.
+
+## 📫 Contact Me
+
+<p align="center">
+  Feel free to reach out to me:
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/avishek-prasad"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://twitter.com/avishek_prasad"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter"></a>
+  <a href="https://github.com/avishek999"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github"></a>
+  <a href="mailto:avishek999@gmail.com"><img src="https://img.shields.io/badge/Email-Send-red?style=flat-square&logo=gmail"></a>
+</p>
