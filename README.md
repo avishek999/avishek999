@@ -10,23 +10,7 @@
   I'm dedicated to contributing to open-source projects and collaborating on innovative solutions.
 </p>
 
-<p align="center">
-  <a href="https://www.apavishek.xyz">
-    <img src="https://img.icons8.com/3d-fluency/94/000000/domain.png" alt="Website" width="50" height="50">
-  </a>
-  <a href="https://www.linkedin.com/in/avishek-prasad">
-    <img src="https://img.icons8.com/3d-fluency/94/000000/linkedin.png" alt="LinkedIn" width="50" height="50">
-  </a>
-  <a href="https://twitter.com/avishek_prasad">
-    <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-x-10193145-8250224.png" alt="Twitter" width="50" height="50">
-  </a>
-  <a href="https://github.com/avishek999">
-    <img src="https://img.icons8.com/3d-fluency/94/000000/github.png" alt="GitHub" width="50" height="50">
-  </a>
-  <a href="mailto:avishek999@gmail.com">
-    <img src="https://img.icons8.com/3d-fluency/94/000000/gmail.png" alt="Email" width="50" height="50">
-  </a>
-</p>
+
 
 
 ## 🛠 Languages and Tools
@@ -57,3 +41,25 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishek999&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="height:190px">
 </div>
 
+## 📫 Contact Me
+
+<p align="center">
+  Feel free to reach out to me:
+</p>
+<p align="center">
+  <a href="https://www.apavishek.xyz">
+    <img src="https://img.icons8.com/3d-fluency/94/000000/domain.png" alt="Website" width="50" height="50">
+  </a>
+  <a href="https://www.linkedin.com/in/avishek-prasad">
+    <img src="https://img.icons8.com/3d-fluency/94/000000/linkedin.png" alt="LinkedIn" width="50" height="50">
+  </a>
+  <a href="https://twitter.com/avishek_prasad">
+    <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-x-10193145-8250224.png" alt="Twitter" width="50" height="50">
+  </a>
+  <a href="https://github.com/avishek999">
+    <img src="https://img.icons8.com/3d-fluency/94/000000/github.png" alt="GitHub" width="50" height="50">
+  </a>
+  <a href="mailto:avishek999@gmail.com">
+    <img src="https://img.icons8.com/3d-fluency/94/000000/gmail.png" alt="Email" width="50" height="50">
+  </a>
+</p>
