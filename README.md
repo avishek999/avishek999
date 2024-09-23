@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)](https://www.apavishek.xyz)
 <h1 align="center">Hi 👋, I'm Avishek Prasad</h1>
 
-<h3 align="center">I'm a full-stack developer passionate about creating dynamic and user-friendly web applications.</h3>
+<h3 align="center">I'm a full-stack developer passionate about creating dynamic and user-friendly web application.</h3>
 
 <p align="center">
   With expertise in HTML, CSS, JavaScript, React, Node.js, and Laravel, I bring ideas to life.<br>
