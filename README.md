@@ -25,6 +25,7 @@
   <img src="https://www.apavishek.xyz/img/skills/typescript.png" alt="TypeScript" width="70" height="70">
   <img src="https://www.apavishek.xyz/img/skills/laravel-framework-logo.png" alt="Laravel" width="70" height="70">
   <img src="https://www.apavishek.xyz/img/skills/react.png" alt="React" width="70" height="70">
+  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-nestjs-3d-icon-download-in-png-blend-fbx-gltf-file-formats--javascript-typescript-node-js-server-side-coding-lang-pack-logos-icons-7578005.png" alt="React" width="70" height="70">
   <img src="https://www.apavishek.xyz/img/skills/mysql.png" alt="MySQL" width="70" height="70">
   <img src="https://www.apavishek.xyz/img/skills/mongo-db.png" alt="MongoDB" width="70" height="70">
   <img src="https://www.apavishek.xyz/img/skills/sql.png" alt="SQL" width="70" height="70">
