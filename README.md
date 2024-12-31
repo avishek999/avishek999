@@ -7,7 +7,7 @@
   With expertise in HTML, CSS, JavaScript, React, Node.js, and Laravel, I bring ideas to life.<br>
   I have a strong foundation in data structures and algorithms (DSA), which enhances my problem-solving skill.<br>
   I enjoy tackling complex challenges and continuously learning new technologies.<br>
-  I'm dedicated to contributing to open-source projects and collaborating on innovative solutions.
+  I'm dedicated to contributing to open-source projects and collaborating on innovative solution.
 </p>
 
 
