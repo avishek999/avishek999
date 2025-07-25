@@ -1,45 +1,31 @@
-[![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)](https://www.apavishek.xyz)
-<h1 align="center">Hi 👋, I'm Avishek Prasad</h1>
 
-<h3 align="center">I'm a full-stack developer passionate about creating dynamic and user-friendly web applications.</h3>
+<h1 >Hi 👋, I'm Avishek Prasad</h1>
 
-<p align="center">
-  With expertise in HTML, CSS, JavaScript, React, Node.js, and Laravel, I bring ideas to life.<br>
-  I have a strong foundation in data structures and algorithms (DSA), which enhances my problem-solving skill.<br>
-  I enjoy tackling complex challenges and continuously learning new technologies<br>
-  I'm dedicated to contributing to open-source projects and collaborating on innovative solution.
+<p >
+I’m a passionate Full Stack Developer with a strong focus on front-end technologies like React, Next.js, and Tailwind CSS. I’ve built and deployed production-ready apps using MERN and Laravel stacks. I love solving real-world problems and building scalable, user-friendly web apps. Currently open to new opportunities where I can learn, grow, and make an impact.
 </p>
 
 
 
 
-## 🛠 Languages and Tools
-
-<p align="center">
-  <img src="https://www.apavishek.xyz/img/skills/html.png" alt="HTML" width="70" height="70">
-  <img src="https://www.apavishek.xyz/img/skills/css.png" alt="CSS" width="70" height="70">
-  <img src="https://www.apavishek.xyz/img/skills/bootstrap-framework-logo.png" alt="Bootstrap" width="70" height="70">
-  <img src="https://www.apavishek.xyz/img/skills/tailwind.png" alt="Tailwind CSS" width="70" height="70">
-  <img src="https://www.apavishek.xyz/img/skills/php.png" alt="PHP" width="70" height="70">
-  <img src="https://www.apavishek.xyz/img/skills/javascript.png" alt="JavaScript" width="70" height="70">
-  <img src="https://www.apavishek.xyz/img/skills/typescript.png" alt="TypeScript" width="70" height="70">
-  <img src="https://www.apavishek.xyz/img/skills/laravel-framework-logo.png" alt="Laravel" width="70" height="70">
-  <img src="https://www.apavishek.xyz/img/skills/react.png" alt="React" width="70" height="70">
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-nestjs-3d-icon-download-in-png-blend-fbx-gltf-file-formats--javascript-typescript-node-js-server-side-coding-lang-pack-logos-icons-7578005.png" alt="React" width="70" height="70">
-  <img src="https://www.apavishek.xyz/img/skills/mysql.png" alt="MySQL" width="70" height="70">
-  <img src="https://www.apavishek.xyz/img/skills/mongo-db.png" alt="MongoDB" width="70" height="70">
-  <img src="https://www.apavishek.xyz/img/skills/sql.png" alt="SQL" width="70" height="70">
-  <img src="https://www.apavishek.xyz/img/skills/github.png" alt="GitHub" width="70" height="70">
-  <img src="https://www.apavishek.xyz/img/skills/nodejs.png" alt="Node.js" width="70" height="70">
-  <img src="https://www.apavishek.xyz/img/skills/git.png" alt="Git" width="70" height="70">
-  <img src="https://www.apavishek.xyz/img/skills/visual-studio-code.png" alt="VS Code" width="70" height="70">
-</p>
-
+## Languages and Tools
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ## 📈 Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avishek999&theme=radical&hide_border=false">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishek999&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="height:190px">
+<div >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avishek999&theme=dark&hide_border=false">
 </div>
 
 ## 📫 Contact Me
