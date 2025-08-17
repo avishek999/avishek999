@@ -23,7 +23,7 @@ I’m a passionate Full Stack Developer with a strong focus on front-end technol
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-## 📈 Stats
+## 📈 Stat
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=avishek999&theme=dark&hide_border=false">
 </div>
