@@ -2,7 +2,7 @@
 <h1 >Hi 👋, I'm Avishek Prasad</h1>
 
 <p >
-I’m a passionate Full Stack Developer with a strong focus on front-end technologies like React, Next.js, and Tailwind CSS. I’ve built and deployed production-ready apps using MERN and Laravel stack. I love solving real-world problems and building scalable, user-friendly web app. Currently open to new opportunities where I can learn, grow, and make an impact.
+I’m a passionate Full Stack Developer with a strong focus on front-end technologies like React, Next.js, and Tailwind CSS. I’ve built and deployed production-ready apps using MERN and Laravel stack. I love solving real-world problems and building scalable, user-friendly web app. Currently open to new opportunities where I can learn, grow, and make an impacts.
 </p>
 
 
